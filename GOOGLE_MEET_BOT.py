@@ -7,7 +7,7 @@ import subprocess
 # the link of the class
 link = "meet.google.com/[meet-code]"
 # the timing of the class
-time = "19:27"
+time = "11:11"
 subprocess.Popen("C:\Program Files\Google\Chrome\Application\chrome.exe")
 def join():
     webbrowser.open_new_tab('https://'+ link)
